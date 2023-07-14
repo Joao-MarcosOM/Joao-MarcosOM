@@ -1,6 +1,6 @@
 # João Marcos Oliveira Melo
 
-[LinkedIn](https://www.linkedin.com/in/joão-marcos-oliveira) | [GitHub](https://github.com/Joao-MarcosOM)
+[LinkedIn](https://www.linkedin.com/in/joão-marcosom) | [GitHub](https://github.com/Joao-MarcosOM)
 
 ## About Me
 

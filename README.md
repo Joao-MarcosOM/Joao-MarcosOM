@@ -20,9 +20,14 @@
 
 ## Work Experience
 
+**White Wall**  
+*Development Team Lead*  
+dez 2023 - Present 
+Brasília, Distrito Federal, Brazil
+
 **SolviTech**  
 *Development Team Lead*  
-May 2023 - Present (3 months)  
+May 2023 - dez 2023 (8 months)  
 Brasília, Distrito Federal, Brazil
 
 *Intern*  

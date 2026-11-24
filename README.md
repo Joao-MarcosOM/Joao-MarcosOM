@@ -1,39 +1,38 @@
-# Hi there, I'm João Marcos 👋
+# Hi, I'm João Marcos 👋
 
-[LinkedIn](https://www.linkedin.com/in/joão-marcosom) | [GitHub](https://github.com/Joao-MarcosOM)
+**Conversational AI Specialist | Blip Expert | Customer Service Automation with LLMs**
 
-## About Me
+I help companies turn WhatsApp customer service into an automated, measurable and scalable operation.
 
-🚀 Passionate about technology, I made a career shift and joined SolviTech as an intern. Within a short span of 1 year and 3 months, I rapidly advanced to become a Development Team Lead, overseeing project development.
+[Portfolio](https://joao-marcosom.github.io/portfolio/?lang=en) · [LinkedIn](https://www.linkedin.com/in/joaomarcosom) · [Resume](https://joao-marcosom.github.io/portfolio/?lang=en) · [Português](https://joao-marcosom.github.io/portfolio/)
 
-📚 Always eager to expand my knowledge, I am an ongoing student at [Rocketseat](https://app.rocketseat.com.br/), a prestigious tech education platform. This allows me to continuously sharpen my programming skills and stay up-to-date with the latest industry trends.
+## About me
 
-## Current stack
+- 🤖 4+ years building chatbots, AI agents and WhatsApp integrations.
+- 🧭 Former **Tech Lead for AI and Chatbots** at White Wall, leading intelligent assistants on **Blip** for large accounts in the automotive, agribusiness, real estate and fitness sectors.
+- 🚀 Joined the company as an intern (back when it was SolviTech) and was leading the development team in about a year.
+- 🏗️ Co-founder & CTO at **Conexxio** (2026), where I designed and built AI products from scratch.
+- 🎓 Postgraduate degree in AI and Automation (Rocketseat) and B.Sc. in Computer Science.
 
-- 💻 Main language: `Javascript`
-- ⚙️ Backend: `Nodejs`, `SQL` 
-- 🌐 Frontend: `React js`, `HTML5`, `CSS3`, `Javascript` 
-- 🎨 Layout Design: `Figma` 
-- 🗂️ Version code control: `Git & Github` 
-- ⚡ Tools: `VsCode` 
-- 💬 Extras abilities: `Chatbot`, `Blip` 
+## Featured work
 
-## Work Experience
+| Project | What it does |
+| --- | --- |
+| **AI Customer Service Diagnostic** | Pulls Blip Desk tickets, classifies each conversation into 13 categories with Gemini and computes every metric in code. Found 86% avoidable escalations in an e-commerce operation with ~2,900 tickets in 30 days. |
+| **Multi-agent WhatsApp engine** | One engine connects the OpenAI Responses API to Blip and ManyChat, with each agent configured from a spreadsheet. |
+| **[Image to Blip JSON Builder](https://github.com/Joao-MarcosOM/blip-json-builder-ui)** | Generates Blip Builder-compatible JSON from an image of a conversation flow. |
+| **AI assistant for managers** | WhatsApp assistant that answers questions by querying an ERP in real time. |
+| **Vc está bem? app** | Daily check-in app for people who live alone, published on the App Store and Google Play. |
 
-**White Wall**  
-*Development Team Lead*  
-dez 2023 - Present 
-Brasília, Distrito Federal, Brazil
+Full case studies, architecture and results: **[portfolio](https://joao-marcosom.github.io/portfolio/?lang=en)**.
 
-**SolviTech**  
-*Development Team Lead*  
-May 2023 - dez 2023 (8 months)  
-Brasília, Distrito Federal, Brazil
+## Stack
 
-*Intern*  
-May 2022 - May 2023 (1 year 1 month)  
-Brasília, Distrito Federal, Brazil
+- **AI and LLMs:** OpenAI, Gemini, Claude, prompt engineering, multi-agent systems
+- **Conversational platforms:** Blip (Builder, Desk, Custom Desk), WhatsApp Business API, Wati, ManyChat
+- **Automation and integrations:** n8n, Google Apps Script, REST APIs, webhooks
+- **Development:** JavaScript, TypeScript, Node.js, React, PHP, Python, SQL
 
-Feel free to explore my GitHub repositories for a closer look at my projects and contributions: [Joao-MarcosOM](https://github.com/Joao-MarcosOM)
+## Let's talk
 
-Don't hesitate to reach out if you have any questions or would like to collaborate. Let's connect and build great things together!
+📫 joaomarcos.bigsan@gmail.com · [LinkedIn](https://www.linkedin.com/in/joaomarcosom)
